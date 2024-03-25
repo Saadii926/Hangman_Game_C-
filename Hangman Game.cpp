@@ -1,12 +1,3 @@
-/*            
-			 GROUP 06
-		PROJECT HANGMAN GAME
-		BY	SHEROZ AHMED
-			SAAD SHAKEEL
-			WALEED UR REHMAN (LEADER)
-			SAIFULLAH SAQID KHAN
-			RAJA ABBAS AFFANDI
-*/			
 #include <iostream>
 #include <conio.h> 
 #include <string> 
